@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="colorButton">#a1b2ec</color>
+    <color name="colorButtonLine">#0a0908</color>
+    <color name="colorTextLine">#0a0908</color>
+
+    <color name="colorButtonClick">#d5deff</color>
+    <color name="colorButtonLineClick">#736b64</color>
+    <color name="colorTextLineClick">#736b64</color>
+
+    <color name="colorEdit_1">#F1684ECF</color>
+    <color name="colorEdit_1Line">#0b0a08</color>
+
+    <color name="colorEdit_11">#63a0f5</color>
+    <color name="colorEdit_11Line">#0b0a08</color>
+
+    <color name="colorEdit_2Line">#c2c2c2</color>
+    <color name="colorEdit_2LineClick">#666666</color>
+
+    <color name="Test">#f1684ecf</color>
+    <color name="colorWhite">#f1e6e4ed</color>
+
+
+</resources>

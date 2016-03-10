@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SixthApp</string>
+    <string name="btn_1st_enter_name">Please enter your name</string>
+
+    <string name="btn_2nd_text">Avoiding of Sins-only illusion, Exactly I know.</string>
+    <string name="edit_1st_text">Field 1</string>
+    <string name="edit_2nd_text">Field 2</string>
+    <string name="edit_3th_text">Field 3</string>
+
+
+</resources>
